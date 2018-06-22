@@ -3,8 +3,4 @@
 ### Spring MVC
 
 1. [创建SpringMVC框架的项目](./pages/spring-mvc/1.创建SpringMVC框架的项目.md)
-
-
-### 超链接测试
-
-[Github](http://github.com/ywyself)
+2. 待完成
