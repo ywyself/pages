@@ -1,6 +1,5 @@
 # 附录一：session、attribute和cookie的用法
 
-
 > 说明：
 >
 >  ```java
