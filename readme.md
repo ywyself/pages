@@ -10,6 +10,9 @@
     - [注解的方式配置filter过滤器](./pages/spring-mvc/5.1.使用filter过滤器（注解）.md)
     - [配置文件的方式配置filter过滤器](./pages/spring-mvc/5.2.使用filter过滤器（配置）.md)
     - [filter其他用法的说明](./pages/spring-mvc/5.3.filter其他用法的说明.md)
+1. 在SpringMVC中使用拦截器
+    - [使用拦截器进行会话检查](./pages/spring-mvc/6.1.使用拦截器进行会话检查.md)
+    - [使用拦截器打印请求信息](./pages/spring-mvc/6.2.使用拦截器打印请求信息.md)
 1. 待完成
 
 ---
