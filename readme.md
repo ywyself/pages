@@ -1,6 +1,7 @@
 ## 文章目录
 
 ### Spring MVC
+> [Spring MVC 4.2.4.RELEASE 中文文档](https://linesh.gitbooks.io/spring-mvc-documentation-linesh-translation/content/)
 
 1. [创建SpringMVC框架的项目](./pages/spring-mvc/1.创建SpringMVC框架的项目.md)
 1. [部署SpringMVC项目](./pages/spring-mvc/2.部署SpringMVC项目.md)
