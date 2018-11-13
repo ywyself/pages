@@ -20,6 +20,10 @@
 1. [使用注解进行数据验证.md](./pages/jfinal/1.使用注解进行数据验证.md)
 1. [JFinal使用Junit单元测试.md](./pages/jfinal/2.JFinal使用Junit单元测试.md)
 
+### JFinal learning
+1. [如何知道一个请求由哪个控制器，那个方法处理.md](./pages/jfinal-learning/1.如何知道一个请求由哪个控制器，那个方法处理.md)
+1. [怎么让控制器中的方法不绑定路径.md](./pages/jfinal-learning/2.怎么让控制器中的方法不绑定路径.md)
+
 
 ---
 ## 附录
