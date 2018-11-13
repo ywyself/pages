@@ -17,7 +17,9 @@
 1. 待完成
 
 ### Jfinal
-1.[使用注解进行数据验证.md](./pages/jfinal/1.使用注解进行数据验证.md)
+1. [使用注解进行数据验证.md](./pages/jfinal/1.使用注解进行数据验证.md)
+1. [JFinal使用Junit单元测试.md](./pages/jfinal/2.JFinal使用Junit单元测试.md)
+
 
 ---
 ## 附录
