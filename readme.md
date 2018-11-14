@@ -23,7 +23,8 @@
 ### JFinal learning
 1. [如何知道一个请求由哪个控制器，那个方法处理.md](./pages/jfinal-learning/1.如何知道一个请求由哪个控制器，那个方法处理.md)
 1. [怎么让控制器中的方法不绑定路径.md](./pages/jfinal-learning/2.怎么让控制器中的方法不绑定路径.md)
-
+1. [怎样返回内容给客户端.md](./pages/jfinal-learning/3.怎样返回内容给客户端.md)
+1. [模版引擎的使用.md](./pages/jfinal-learning/4.模版引擎的使用.md)
 
 ---
 ## 附录
